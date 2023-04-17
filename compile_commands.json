@@ -1,0 +1,104 @@
+[
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\Chese_autogen\\mocs_compilation.cpp.obj -c D:\\Vsproject\\Chess\\build\\Chese_autogen\\mocs_compilation.cpp",
+  "file": "D:\\Vsproject\\Chess\\build\\Chese_autogen\\mocs_compilation.cpp",
+  "output": "CMakeFiles\\Chese.dir\\Chese_autogen\\mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\board.cpp.obj -c D:\\Vsproject\\Chess\\board.cpp",
+  "file": "D:\\Vsproject\\Chess\\board.cpp",
+  "output": "CMakeFiles\\Chese.dir\\board.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\main.cpp.obj -c D:\\Vsproject\\Chess\\main.cpp",
+  "file": "D:\\Vsproject\\Chess\\main.cpp",
+  "output": "CMakeFiles\\Chese.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\stone.cpp.obj -c D:\\Vsproject\\Chess\\stone.cpp",
+  "file": "D:\\Vsproject\\Chess\\stone.cpp",
+  "output": "CMakeFiles\\Chese.dir\\stone.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\util.cpp.obj -c D:\\Vsproject\\Chess\\util.cpp",
+  "file": "D:\\Vsproject\\Chess\\util.cpp",
+  "output": "CMakeFiles\\Chese.dir\\util.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QGifPlugin_Import.cpp.obj -c D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QGifPlugin_Import.cpp",
+  "file": "D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QGifPlugin_Import.cpp",
+  "output": "CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QGifPlugin_Import.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QICNSPlugin_Import.cpp.obj -c D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QICNSPlugin_Import.cpp",
+  "file": "D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QICNSPlugin_Import.cpp",
+  "output": "CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QICNSPlugin_Import.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QICOPlugin_Import.cpp.obj -c D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QICOPlugin_Import.cpp",
+  "file": "D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QICOPlugin_Import.cpp",
+  "output": "CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QICOPlugin_Import.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QJpegPlugin_Import.cpp.obj -c D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QJpegPlugin_Import.cpp",
+  "file": "D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QJpegPlugin_Import.cpp",
+  "output": "CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QJpegPlugin_Import.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QSvgIconPlugin_Import.cpp.obj -c D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QSvgIconPlugin_Import.cpp",
+  "file": "D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QSvgIconPlugin_Import.cpp",
+  "output": "CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QSvgIconPlugin_Import.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Widgets\\Qt5Widgets_QWindowsVistaStylePlugin_Import.cpp.obj -c D:\\Library\\qt5\\lib\\cmake\\Qt5Widgets\\Qt5Widgets_QWindowsVistaStylePlugin_Import.cpp",
+  "file": "D:\\Library\\qt5\\lib\\cmake\\Qt5Widgets\\Qt5Widgets_QWindowsVistaStylePlugin_Import.cpp",
+  "output": "CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Widgets\\Qt5Widgets_QWindowsVistaStylePlugin_Import.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QSvgPlugin_Import.cpp.obj -c D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QSvgPlugin_Import.cpp",
+  "file": "D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QSvgPlugin_Import.cpp",
+  "output": "CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QSvgPlugin_Import.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QTgaPlugin_Import.cpp.obj -c D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QTgaPlugin_Import.cpp",
+  "file": "D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QTgaPlugin_Import.cpp",
+  "output": "CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QTgaPlugin_Import.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QTiffPlugin_Import.cpp.obj -c D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QTiffPlugin_Import.cpp",
+  "file": "D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QTiffPlugin_Import.cpp",
+  "output": "CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QTiffPlugin_Import.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QWbmpPlugin_Import.cpp.obj -c D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QWbmpPlugin_Import.cpp",
+  "file": "D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QWbmpPlugin_Import.cpp",
+  "output": "CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QWbmpPlugin_Import.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QWebpPlugin_Import.cpp.obj -c D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QWebpPlugin_Import.cpp",
+  "file": "D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QWebpPlugin_Import.cpp",
+  "output": "CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QWebpPlugin_Import.cpp.obj"
+},
+{
+  "directory": "D:/Vsproject/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_ACCESSIBILITY_SUPPORT_LIB -DQT_CORE_LIB -DQT_EVENTDISPATCHER_SUPPORT_LIB -DQT_FONTDATABASE_SUPPORT_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SVG_LIB -DQT_THEME_SUPPORT_LIB -DQT_WIDGETS_LIB -DQT_WINDOWSUIAUTOMATION_SUPPORT_LIB -ID:/Vsproject/Chess/build/Chese_autogen/include -isystem D:/Library/qt5/include -isystem D:/Library/qt5/include/QtCore -isystem D:/Library/qt5/share/qt5/mkspecs/win32-g++ -isystem D:/Library/qt5/include/QtGui -isystem D:/Library/qt5/include/QtSvg -isystem D:/Library/qt5/include/QtWidgets -isystem D:/Library/qt5/include/QtEventDispatcherSupport -isystem D:/Library/qt5/include/QtFontDatabaseSupport -isystem D:/Library/qt5/include/QtThemeSupport -isystem D:/Library/qt5/include/QtAccessibilitySupport -isystem D:/Library/qt5/include/QtWindowsUIAutomationSupport -mwindows -o CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QWindowsIntegrationPlugin_Import.cpp.obj -c D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QWindowsIntegrationPlugin_Import.cpp",
+  "file": "D:\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QWindowsIntegrationPlugin_Import.cpp",
+  "output": "CMakeFiles\\Chese.dir\\D_\\Library\\qt5\\lib\\cmake\\Qt5Gui\\Qt5Gui_QWindowsIntegrationPlugin_Import.cpp.obj"
+}
+]
