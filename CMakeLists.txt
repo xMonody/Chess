@@ -5,8 +5,15 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
-set(CMAKE_PREFIX_PATH D:/Library/qt5/lib/cmake)
-set(CMAKE_PREFIX_PATH D:/Library/qt5/lib/cmake/Qt5)
+
+#set(CMAKE_CXX_STANDARD_LIBRARIES "-static -static-libgcc -static-libstdc++")
+#set(CMAKE_CXX_FLAGS "-static -static-libgcc -static-libstdc++")
+set(CMAKE_EXE_LINKER_FLAGS "-static -static-libgcc -static-libstdc++")
+
+set(CMAKE_PREFIX_PATH "/mingw64/qt5-static")
+# set(CMAKE_PREFIX_PATH D:/Library/qt5/lib/cmake)
+# set(CMAKE_PREFIX_PATH D:/Library/qt5/lib/cmake/Qt5)
+
 set(CMAKE_CXX_FLAGS -mwindows)
 
 set(CMAKE_EXE_LINKER_FLAGS "-static")
@@ -30,4 +37,14 @@ target_link_libraries(${PROJECT_NAME} PUBLIC
     Qt::Core
     Qt::Gui
     Qt::Widgets
+    -Wl,-Bstatic -lz -lzstd  # 强制静态链接 zlib 和 zstd
 )
+# 确保静态链接
+#target_link_options(${PROJECT_NAME} PRIVATE
+    #-static
+    #-static-libgcc
+    #-static-libstdc++
+#)
+
+#cmake ../ -DQt5Core_DIR="/mingw64/qt5-static/lib/cmake/Qt5Core" -DQt5Gui_DIR="/mingw64/qt5-static/lib/cmake/Qt5Gui" \
+-DQt5Widgets_DIR="/msys64/mingw64/qt5-static/lib/cmake/Qt5Widgets" -DQt5_DIR="/mingw64/qt5-static/lib/cmake/Qt5" -DCMAKE_BUILD_TYPE=Rleases
